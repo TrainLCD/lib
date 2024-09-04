@@ -1,7 +1,7 @@
 {
-  "name": "@trainlcd/hooks",
+  "name": "@trainlcd/lib",
   "version": "0.0.1",
-  "description": "🛠️ Commonized business logics for React.js applications",
+  "description": "⚙️ The useful library for TrainLCD project applications",
   "main": "dist/index.js",
   "scripts": {
     "build:ts": "tsc",

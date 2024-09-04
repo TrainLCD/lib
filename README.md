@@ -1,2 +1,2 @@
-# hooks
-🛠️ Commonized business logics for React.js applications
+# lib
+⚙️ The useful library for TrainLCD project applications
