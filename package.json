@@ -1,0 +1,29 @@
+{
+  "name": "@trainlcd/hooks",
+  "version": "1.0.0",
+  "description": "🛠️ Commonized business logics for React.js applications",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src/**"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrainLCD/hooks.git"
+  },
+  "author": "TinyKitten <oss@tinykitten.me> (Tsubasa SEKIGUCHI)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrainLCD/hooks/issues"
+  },
+  "homepage": "https://github.com/TrainLCD/hooks#readme",
+  "dependencies": {
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.9.1",
+    "eslint": "^9.9.1",
+    "eslint-plugin-react": "^7.35.2",
+    "globals": "^15.9.0",
+    "typescript-eslint": "^8.4.0"
+  }
+}
